@@ -4,12 +4,12 @@
 # Shippable Towerblocks
 
 
-In deze game moet je een zo hoog mogelijke score krijgen door een zo hoog mogelijke toren te maken door vanaf het target te stacken
+The goal of this game is to stack as many blocks on top of eachother as you can and reach a new highscore. If the tower collapses or a block were to fall off of the platform it's game over.
 
-Controls: SPACE = laat blok vallen    Left Arrow Key = beweeg blok naar links        Right arrow Key = beweeg blok naar rechts
+Controls: SPACE = drop a block   Left Arrow Key = move the block to the left     Right arrow Key = move the block to the right
 
-<<<<<<< HEAD
-Te spelen in unity versie 2019.2.15f1
+HEAD
+Playable in Unity version 2019.2.15f1
 =======
-Te spelen in unity versie 2019.2.15f1
+Playable in Unity version 2019.2.15f1
 
